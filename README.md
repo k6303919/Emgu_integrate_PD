@@ -1,5 +1,5 @@
 # Emgucv3.2
-使用 Emgu.CV 建立早期帕金森氏症電腦輔助診斷系統項目，並將使用Computed Tomography(CT)及Magnetic Resonance Imaging(MRI)影像建立自動輪廓影像處理演算法
+使用 Emgu.CV 建立早期帕金森氏症電腦輔助診斷系統項目，並將使用Computed Tomography(CT)及Magnetic Resonance Imaging(MRI)影像建立自動輪廓影像處理演算法。
 # CT影像
 ![image](https://github.com/k6303919/Emgu_integrate_PD/assets/45620929/8b749bce-5c45-4f35-a3a9-b25a828cae9a)
 # MRI影像
